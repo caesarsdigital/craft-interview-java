@@ -22,8 +22,9 @@ public class ExampleApiStepDefs {
 
     // Write the API call on the line below using the module given
     //  documentation https://rest-assured.io/
-    // API URL to call: https://caesarspalaceonline.com/us/mi/promos
+    // API URL to call: https://api.americanwagering.com/regions/us/locations/mi/brands/czr/igaming/bonus-engine/api/v1/promotions
     // Store the response from the API call in the "response" variable
+    // You need to add headers to request like user-agnet x-appbranding and content-type = application/json
     // Your code here:
    //    response = "";
 
