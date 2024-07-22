@@ -22,7 +22,7 @@ public class ExampleApiStepDefs {
 
     // Write the API call on the line below using the module given
     //  documentation https://rest-assured.io/
-    // API URL to call: https://api.americanwagering.com/regions/us/locations/mi/brands/czr/igaming/bonus-engine/api/v1/promotions
+    // API URL to call: https://caesarspalaceonline.com/us/mi/promos
     // Store the response from the API call in the "response" variable
     // Your code here:
    //    response = "";
